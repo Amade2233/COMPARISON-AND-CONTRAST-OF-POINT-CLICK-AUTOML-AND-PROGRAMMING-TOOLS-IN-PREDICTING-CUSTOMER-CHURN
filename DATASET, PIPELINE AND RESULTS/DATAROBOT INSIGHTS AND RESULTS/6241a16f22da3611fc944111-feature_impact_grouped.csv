@@ -1,0 +1,20 @@
+Feature Name,Relative Importance,Parent Feature Name
+tenure,1.0,tenure
+Contract,0.35477401172291445,Contract
+InternetService,0.1945540148052002,InternetService
+MonthlyCharges,0.16704675436095762,MonthlyCharges
+TotalCharges,0.15363941577450382,TotalCharges
+TechSupport,0.07419450416489494,TechSupport
+PaymentMethod,0.052116559174442044,PaymentMethod
+OnlineSecurity,0.03906706112718576,OnlineSecurity
+StreamingMovies,0.033861996743147105,StreamingMovies
+MultipleLines,0.027335726040644513,MultipleLines
+PaperlessBilling,0.02622483283131865,PaperlessBilling
+Dependents,0.009706869279067979,Dependents
+OnlineBackup,0.00621967410082313,OnlineBackup
+Partner,0.005360583125916272,Partner
+PhoneService,0.005045288555746805,PhoneService
+StreamingTV,0.0028790374650862066,StreamingTV
+DeviceProtection,0.002060367335159482,DeviceProtection
+SeniorCitizen,0.0012453338760639381,SeniorCitizen
+gender,0.00020849513440438435,gender

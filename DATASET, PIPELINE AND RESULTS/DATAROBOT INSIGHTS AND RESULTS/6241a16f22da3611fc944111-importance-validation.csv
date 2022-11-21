@@ -1,0 +1,20 @@
+Feature Name,Relative Importance
+tenure,1.0
+MonthlyCharges,0.711382
+TotalCharges,0.585366
+Contract,0.378049
+MultipleLines,0.166667
+InternetService,0.101626
+Dependents,0.101626
+StreamingTV,0.093496
+Partner,0.093496
+PaperlessBilling,0.089431
+PaymentMethod,0.085366
+StreamingMovies,0.085366
+TechSupport,0.077236
+PhoneService,0.069106
+DeviceProtection,0.04878
+OnlineSecurity,0.04065
+SeniorCitizen,0.036585
+OnlineBackup,0.03252
+gender,0.02439

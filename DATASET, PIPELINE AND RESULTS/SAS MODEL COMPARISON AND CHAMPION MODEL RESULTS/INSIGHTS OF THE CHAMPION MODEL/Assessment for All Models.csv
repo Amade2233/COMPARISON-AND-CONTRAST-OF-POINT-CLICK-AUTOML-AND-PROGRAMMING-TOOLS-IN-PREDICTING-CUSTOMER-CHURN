@@ -1,0 +1,6 @@
+﻿"Pipeline Name","Model","Pipeline Champion","Champion","Model Comparison Statistic",
+"Neural Network","Neural Network","true","false","0.549941665853",
+"Starter Template","Logistic Regression","true","false","0.543552438117",
+"Support Vector Machine ","SVM","true","false","0.547381198826",
+"TREE BASED (DECISION TREE)","Forest","false","false","0.586568870585",
+"TREE BASED (DECISION TREE)","Gradient Boosting","true","true","0.587329892403",
